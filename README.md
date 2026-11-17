@@ -12,16 +12,21 @@ in private enterprise repositories under NDA.
 
 The graphs below show historical GitHub contribution activity across private enterprise repositories.
 
-[View GitHub Contribution History](https://github.com/lubomirKavetskiy/private-project-contributions)
-
 ### GitHub Contributions — 2026
 
-![2026 Contributions](https://raw.githubusercontent.com/lubomirKavetskiy/private-project-contributions/main/assets/contributions-2026.png)
+![2026 Contributions](https://raw.githubusercontent.com/lubomirKavetskiy/private-project-contributions/main/assets/2026.png)
 
 ### GitHub Contributions — 2025
 
-![2025 Contributions](https://raw.githubusercontent.com/lubomirKavetskiy/private-project-contributions/main/assets/contributions-2025.png)
+![2025 Contributions](https://raw.githubusercontent.com/lubomirKavetskiy/private-project-contributions/main/assets/2025.png)
 
+### GitHub Contributions — 2024
+
+![2026 Contributions](https://raw.githubusercontent.com/lubomirKavetskiy/private-project-contributions/main/assets/2024.png)
+
+### GitHub Contributions — 2023
+
+![2026 Contributions](https://raw.githubusercontent.com/lubomirKavetskiy/private-project-contributions/main/assets/2023.png)
 
 ### Core Expertise
 
