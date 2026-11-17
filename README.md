@@ -3,12 +3,11 @@
 Senior Frontend Engineer with 10+ years of experience
 building enterprise applications using React and TypeScript.
 
-### Professional Engineering Activity
+### Professional Engineering Experience (2023-2026)
 
-Most of my professional development work takes place
-in private enterprise repositories under NDA.
+My work includes frontend development, code ownership, code reviews, architectural improvements, and collaboration across engineering teams.
 
-**6,577 GitHub contributions (2023–2026)**
+**GitHub contributions (2023–2026)**
 
 The graphs below show historical GitHub contribution activity across private enterprise repositories.
 
