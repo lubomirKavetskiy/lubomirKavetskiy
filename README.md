@@ -10,8 +10,7 @@ in private enterprise repositories under NDA.
 
 **6,577 GitHub contributions (2023–2026)**
 
-The figures below represent historical activity
-from my corporate GitHub account.
+The graphs below show historical GitHub contribution activity across private enterprise repositories.
 
 [View GitHub Contribution History](https://github.com/lubomirKavetskiy/private-project-contributions)
 
