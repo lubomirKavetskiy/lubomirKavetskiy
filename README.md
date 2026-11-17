@@ -15,6 +15,15 @@ from my corporate GitHub account.
 
 [View GitHub Contribution History](https://github.com/lubomirKavetskiy/private-project-contributions)
 
+### GitHub Contributions — 2026
+
+![2026 Contributions](https://raw.githubusercontent.com/lubomirKavetskiy/private-project-contributions/main/assets/contributions-2026.png)
+
+### GitHub Contributions — 2025
+
+![2025 Contributions](https://raw.githubusercontent.com/lubomirKavetskiy/private-project-contributions/main/assets/contributions-2025.png)
+
+
 ### Core Expertise
 
 - React, TypeScript, JavaScript
