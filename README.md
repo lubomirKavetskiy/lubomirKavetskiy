@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Liubomyr 👋
 
-<!--
-**lubomirKavetskiy/lubomirKavetskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Engineer with 10+ years of experience
+building enterprise applications using React and TypeScript.
 
-Here are some ideas to get you started:
+### Professional Engineering Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my professional development work takes place
+in private enterprise repositories under NDA.
+
+**6,577 GitHub contributions (2023–2026)**
+
+The figures below represent historical activity
+from my corporate GitHub account.
+
+[View GitHub Contribution History](https://github.com/lubomirKavetskiy/private-project-contributions)
+
+### Core Expertise
+
+- React, TypeScript, JavaScript
+- Frontend Architecture
+- Component Libraries & Design Systems
+- Code Ownership & Code Reviews
+- Technical Leadership & Cross-team Collaboration
